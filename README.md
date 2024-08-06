@@ -1,5 +1,6 @@
 # Jotion
 
+<img src="/public/jotion.png"/>
 Key Features:
 
 - Real-time database  🔗 
